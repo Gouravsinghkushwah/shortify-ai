@@ -1,6 +1,6 @@
 # 🎬 Shortify-AI
 
-> AI-Powered Video Highlight & Short Clip Generator built with Java Spring Boot 🚀
+> AI-Powered Video Highlight & Short Clip Generator built with Java Spring Boot + Python 🚀
 
 Shortify-AI automatically processes long videos, detects engaging moments using AI, and generates short clips optimized for platforms like YouTube Shorts, Instagram Reels, and TikTok.
 
