@@ -139,18 +139,8 @@ Fork → Create Branch → Commit → Push → Pull Request
 
 Java Backend Developer | AI Enthusiast | Microservices Developer
 
-📧 Email: your-email@example.com  
-🔗 LinkedIn: Add Your LinkedIn  
-🌐 GitHub: https://github.com/Gouravsinghkushwah
-
 ---
 
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
-
----
-
-## 📜 License
-
-This project is licensed under the MIT License.
